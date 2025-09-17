@@ -21,3 +21,4 @@ The goal of this repository is to build a comprehensive collection of ML and DL 
 
 This repository is licensed under the MIT License – see the LICENSE
  file for details.
+- Added [image_classifies](./image_classifies/README.md)
