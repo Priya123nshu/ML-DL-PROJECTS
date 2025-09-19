@@ -25,3 +25,4 @@ This repository is licensed under the MIT License – see the LICENSE
 - Added [project_2_sentiment_analysis](./project_2_sentiment_analysis/README.md)
 - Added [project_3 customer_churn_prediction](./project_3_customer_churn_prediction/README.md)
 - Added [project_4_stock_price_prediction](./project_4_stock_price_prediction/README.md)
+- Added [project_5_credit_score_classifier](./project_5_credit_score_classifier/README.md)
