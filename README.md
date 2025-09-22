@@ -28,3 +28,4 @@ This repository is licensed under the MIT License – see the LICENSE
 - Added [project_5_credit_score_classifier](./project_5_credit_score_classifier/README.md)
 - Added [project_6_product_recommendation](./project_6_product_recommendation/README.md)
 - Added [project_7_customer_lifetime_value_prediction](./project_7_customer_lifetime_valure_prediction/README.md)
+- Added [document clustering system](./document_clustering_system/README.md)
