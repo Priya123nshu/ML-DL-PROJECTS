@@ -27,6 +27,5 @@ This repository is licensed under the MIT License – see the LICENSE
 - Added [project_4_stock_price_prediction](./project_4_stock_price_prediction/README.md)
 - Added [project_5_credit_score_classifier](./project_5_credit_score_classifier/README.md)
 - Added [project_6_product_recommendation](./project_6_product_recommendation/README.md)
-- Added [project_7_customer_lifetime_value_prediction](./project_7_customer_lifetime_valure_prediction/README.md)
-- Added [document clustering system](./document_clustering_system/README.md)
+- Added [project_7_customer_lifetime_value_prediction](./project_7_customer_lifetime_valure_prediction/README.md) 
 - Added [project 8 document clustering system](./project_8_document_clustering_system/README.md)
