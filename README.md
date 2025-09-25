@@ -30,4 +30,3 @@ This repository is licensed under the MIT License – see the LICENSE
 - Added [project_7_customer_lifetime_value_prediction](./project_7_customer_lifetime_valure_prediction/README.md) 
 - Added [project 8 document clustering system](./project_8_document_clustering_system/README.md)
 - Added [project 9 disease diagnosis prediction](./project_9_disease_diagnosis_prediction/README.md)
-- Added [project 9 disease diagnosis prediction](./project_9_disease_diagnosis_prediction/README.md)
