@@ -21,7 +21,7 @@ The goal of this repository is to build a comprehensive collection of ML and DL 
 
 This repository is licensed under the MIT License – see the LICENSE
  file for details.
-- Added [Project_1_Image_classifier](./project_1_image_classifier/README.md)
+- Added [project_1_Image_classifier](./project_1_image_classifier/README.md)
 - Added [project_2_sentiment_analysis](./project_2_sentiment_analysis/README.md)
 - Added [project_3 customer_churn_prediction](./project_3_customer_churn_prediction/README.md)
 - Added [project_4_stock_price_prediction](./project_4_stock_price_prediction/README.md)
